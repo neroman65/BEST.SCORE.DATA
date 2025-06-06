@@ -69,7 +69,7 @@ if uploaded_file:
             'HCP Massimo': [hcp_max],
             'HCP Minimo': [hcp_min],
             'Periodo max senza risultati (giorni)': [massimo_gap],
-            'Percentuale partite nel proprio circolo': [percentuale_circolo_proprio],
+            'Percentuale risultati nel proprio circolo': [percentuale_circolo_proprio],
             'Media punti nel proprio circolo': [media_proprio],
             'Media punti negli altri circoli': [media_esterni]
         })
